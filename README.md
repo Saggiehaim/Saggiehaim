@@ -11,6 +11,8 @@ You can find me on:
  **My blog** <a href="https://www.saggiehaim.net"><img height="30" src="https://github.com/Saggiehaim/saggiehaim/blob/master/media/white_logo.png"> Saggiehaim.net</a>
 
  **Twitter** [@Saggiehaim](https://twitter.com/SaggieHaim)
+ 
+ **LinkdIn** [Saggie Haim](https://www.linkedin.com/in/saggie/)
 
 <!--
 **Saggiehaim/saggiehaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

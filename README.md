@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Saggieham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saggiehaim&show_icons=true&theme=dark)
+[![Saggieham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saggiehaim&show_icons=true&theme=dark)](https://github.com/saggiehaim/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saggiehaim&layout=compact&theme=dark)](https://github.com/saggiehaim/)

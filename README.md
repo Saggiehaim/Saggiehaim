@@ -2,7 +2,7 @@
 
 # Hey, I'm Saggie 👋
 
-_👪Father, ☁ Engineer, ❤ PowerShell, 🎮 Gamer._
+👨‍👩‍👧‍👧Father, ☁ Engineer, ❤ PowerShell, 🎮 Gamer._
 
 I'm a Cloud Native Devops and Security Architects team leader, Tech trainer, and writing about PowerShell and automations.
 

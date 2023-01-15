@@ -14,21 +14,7 @@ You can find me on:
  
  **LinkdIn** [Saggie Haim](https://www.linkedin.com/in/saggie/)
 
-<!--
-**Saggiehaim/saggiehaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Saggieham's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=saggiehaim&show_icons=true&theme=cobalt)](https://github.com/saggiehaim/)
 
-- 🔭 I’m currently working on Saggiehaim.net
-- 🌱 I’m currently learning Dot.net Core
-- 👯 I’m looking to collaborate on PowerShell Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about PowerShell and Directory Services
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Saggieham's GitHub stats](https://github-readme-stats.vercel.app/api?username=saggiehaim&show_icons=true&theme=dark)](https://github.com/saggiehaim/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saggiehaim&layout=compact&theme=dark)](https://github.com/saggiehaim/)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=saggiehaim&layout=compact&theme=cobalt)](https://github.com/saggiehaim/)

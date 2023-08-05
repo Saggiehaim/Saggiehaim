@@ -13,8 +13,3 @@ You can find me on:
  **Twitter** [@Saggiehaim](https://twitter.com/SaggieHaim)
  
  **LinkdIn** [Saggie Haim](https://www.linkedin.com/in/saggie/)
-
-
-[![Saggieham's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=saggiehaim&show_icons=true&theme=cobalt)](https://github.com/saggiehaim/)
-
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=saggiehaim&layout=compact&theme=cobalt)](https://github.com/saggiehaim/)
